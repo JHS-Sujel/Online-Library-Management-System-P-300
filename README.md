@@ -97,7 +97,6 @@ Online library management system divided in two modules –
 ---
 
 
-
 ## Summary: 
 
 The Library Management System needs to be computerized to reduce human errors and to increase the efficiency. The proposed Library Management System in this proposal will be a computerized management system developed to maintain all the daily work of library. Library management systems are designed to store all the information about books and members.
