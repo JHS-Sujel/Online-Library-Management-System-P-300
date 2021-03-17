@@ -96,9 +96,21 @@ Online library management system divided in two modules –
 
 ---
 
+## Admin interface 
+
 ![Screenshot (348)](https://user-images.githubusercontent.com/73945266/111470792-6bc3e380-8752-11eb-8e7f-58b543b34e0a.png)
 
+---
+
+## Initial interface 
+
 ![Screenshot (347)](https://user-images.githubusercontent.com/73945266/111470640-4636da00-8752-11eb-9138-1f75e06ddf07.png)
+
+---
+
+## Block diagram
+
+![Screenshot (346)](https://user-images.githubusercontent.com/73945266/111470276-e17b7f80-8751-11eb-99e4-e212ce81de4e.png)
 
 ---
 
