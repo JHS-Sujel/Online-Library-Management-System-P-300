@@ -118,6 +118,7 @@ The main focus of this project is to lessen human effort and encourage efficient
 - Run php artisan key:generate
 - Run php artisan config:clear
 - Run php artisan serve (if the server opens up, http://127.0.0.1:8000, then we are good to go)
+- Login info: email- jhs pass- 12345678
 
 ---
 
